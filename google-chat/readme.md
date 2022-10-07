@@ -30,7 +30,7 @@ Send a message to a Google Chat space
                         },
                         {
                             "textParagraph": {
-                                "text": "<b>Alert ID:</b> {{alertID}}<br><b>Alert Level:</b> {{alertLevel}}<br><b>Occurred At:</b> {{occurredAt}}"
+                                "text": "<b>Alert ID:</b> {{alertId}}<br><b>Alert Level:</b> {{alertLevel}}<br><b>Occurred At:</b> {{occurredAt}}"
                             }
                         },
                         {
